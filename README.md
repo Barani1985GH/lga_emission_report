@@ -1,15 +1,11 @@
 # Is New South Wales heading towards net zero emissions?
-Project 3_Group 4
-Team members: Barani, Cassie, Henry, Keerthi, Sandhalie
+Project 3
 
 ## Deployment
 * Here is a link to the dashboard: [NSW Emissions Dashboard](https://misscoffeecassie.github.io/Project3_Group4/templates/)
 
 ## Purpose
-In this project, we are trying to answer the below questions:
-* Which sectors are performing the best in terms of reducing carbon emissions?
-* Which LGAs and sectors need more action to be able to reduce carbon emissions?
-* In NSW what are the external factors that contribute to each type of emission?
+The objective of this project is to show a interactive Dashboard that displays the NSW's LGA Co2 emission amount from year 2016 to 2019. On selecting year and LGA, a stacked chart and doughnut chart is created based on the seection and displayed with simple animation
 
 ## Data Sources and Inspiration
 NSW Regional and local greenhouse gas emissions, 2016−2019 | dataset | seed (no date) NSW Regional and Local Greenhouse Gas Emissions, 2016−2019. Available at: https://datasets.seed.nsw.gov.au/dataset/nsw-regional-and-local-greenhouse-gas-emissions-2016-2019 (Accessed: 20 June 2023).  
